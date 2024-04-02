@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:y="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ONWaRD05.MainPage">
+    <!-- TODO: navitage to other pages -->
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+			
+            <Label
+                Text="Welcome to ONWaRD"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Welcome online network writing and retrieving data."
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+			<!-- Link to Create xaml-->
+            <Button
+                x:Name="CounterBtn"
+                Text="Create" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="CenterAndExpand"
+                />
+
+			<!-- Link to Manage xaml-->
+            <Button
+                x:Name="CounterBtn02"
+                Text="Manage" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                HorizontalOptions="CenterAndExpand"
+                 />
+			<!-- Link to Setting xaml-->
+                    <Button
+            x:Name="CounterBtn03"
+            Text="Setting" 
+            SemanticProperties.Hint="Counts the number of times you click"
+            Clicked="OnCounterClicked"
+            HorizontalOptions="CenterAndExpand"
+         />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
