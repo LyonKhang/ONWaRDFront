@@ -4,7 +4,7 @@ This application demonstrates how to utilize Microsoft .NET Maui Framework, Spri
  <br/> This is a front end part <br/>
 
   * [_Technologies Used_](#technologies-used)
-  * [_Extension on Visual Studio_](#extension-on-visual-studio)
+  * [_Workload_](#_workload_)
   * [_Requirements_](#requirements)
   * [_Installation_](#installation)
   * [_Contributing_](#contributing)
@@ -14,28 +14,23 @@ This application demonstrates how to utilize Microsoft .NET Maui Framework, Spri
 ## _Technologies Used_
 
 The following technologies were used to build this application: <br/>
-+ Maven <br/>
 + Microsoft .NET Maui Framework <br/>
 + C#
 + XAML
 + JSON
 + Visual Studio  <br/>
 
-## _Extension on Visual Studio_
+## _WorkLoad_
 
-The following Extension were used in Visual Studio : <br/>
+The following Workload  were used in Visual Studio installer: <br/>
 
-+ .NET Extension Pack v1.0.13<br/>
-+ C# v2.22.5 <br/>
-+ CS-Script v2.2.1<br/>
-Optional:
-+ Spring Boot Dashboard v0.2.1 <br/>
++ .NET Multi-platform App UI development<br/>
 
 
 ## _Requirements_
 
-
 * Having Microsoft .NET Maui Framework for the Front end. <br>
+  Follow the step for **Microsoft .NET Maui** from [Microsoft's website](https://learn.microsoft.com/en-us/dotnet/maui/get-started/installation?view=net-maui-8.0&tabs=vswin)
   Install **Microsoft .NET Maui Framework 8.0.3** from [Microsoft's website](https://dotnet.microsoft.com/en-us/download).
 
   Having Android SDK platform  by Xamarin. Follow the step in [Microsoft's website](https://learn.microsoft.com/en-us/xamarin/android/get-started/installation/android-sdk?tabs=windows).
