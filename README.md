@@ -4,7 +4,7 @@ This application demonstrates how to utilize Microsoft .NET Maui Framework, Spri
  <br/> This is a front end part <br/>
 
   * [_Technologies Used_](#technologies-used)
-  * [_Workload_](#_workload_)
+  * [_WorkLoad_](#workload)
   * [_Requirements_](#requirements)
   * [_Installation_](#installation)
   * [_Contributing_](#contributing)
@@ -18,23 +18,23 @@ The following technologies were used to build this application: <br/>
 + C#
 + XAML
 + JSON
-+ Visual Studio  <br/>
++ Visual Studio 2022 <br/>
 
 ## _WorkLoad_
 
-The following Workload  were used in Visual Studio installer: <br/>
-
+The following Workload  were used in Visual Studio 2022 installer <br/>
++  Android SDK platform
 + .NET Multi-platform App UI development<br/>
 
 
 ## _Requirements_
+**You need Visual Studio 2022 before doing other step**<br/>
+Follow the step for **Visual Studio 2022** from [Microsoft's website](https://visualstudio.microsoft.com/downloads/)
 
-* Having Microsoft .NET Maui Framework for the Front end. <br>
+* 1. Having Microsoft .NET Maui Framework for the Front end. <br/>
   Follow the step for **Microsoft .NET Maui** from [Microsoft's website](https://learn.microsoft.com/en-us/dotnet/maui/get-started/installation?view=net-maui-8.0&tabs=vswin)
-  Install **Microsoft .NET Maui Framework 8.0.3** from [Microsoft's website](https://dotnet.microsoft.com/en-us/download).
 
-  Having Android SDK platform  by Xamarin. Follow the step in [Microsoft's website](https://learn.microsoft.com/en-us/xamarin/android/get-started/installation/android-sdk?tabs=windows).
-
+* 2.Having Android SDK platform  by Xamarin. Follow the step in [Microsoft's website](https://learn.microsoft.com/en-us/xamarin/android/get-started/installation/android-sdk?tabs=windows).
 
   
 ## _Installation_
@@ -63,8 +63,6 @@ Development Environment
 Integration and Data Management
 * JSON: Standard format for data exchange between the frontend and backend, ensuring compatibility and ease of data manipulation.
 
-## _Knowledge Gained_
-
 ## _Contributing_
 To make effective contributions to this software, follow these steps:
 1. Fork this repository to your GitHub account.
@@ -81,7 +79,7 @@ When making contributions, please keep the following in mind:
 
 ## _License_
 
-Users outside have the right to use, copy, modify, and distribute the code included in this project (3/26/2024).
+Users outside have the right to use, copy, modify, and distribute the code included in this project (4/2/2024).
 
 ## _Acknowledgements_
 
