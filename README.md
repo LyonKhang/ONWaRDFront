@@ -28,13 +28,13 @@ The following Workload  were used in Visual Studio 2022 installer <br/>
 
 
 ## _Requirements_
-**You need Visual Studio 2022 before doing other step**<br/>
+**You need Visual Studio 2022 before doing other step**
 Follow the step for **Visual Studio 2022** from [Microsoft's website](https://visualstudio.microsoft.com/downloads/)
 
-* 1. Having Microsoft .NET Maui Framework for the Front end. <br/>
+1.Having Microsoft .NET Maui Framework for the Front end. <br/>
   Follow the step for **Microsoft .NET Maui** from [Microsoft's website](https://learn.microsoft.com/en-us/dotnet/maui/get-started/installation?view=net-maui-8.0&tabs=vswin)
 
-* 2.Having Android SDK platform  by Xamarin. Follow the step in [Microsoft's website](https://learn.microsoft.com/en-us/xamarin/android/get-started/installation/android-sdk?tabs=windows).
+2.Having Android SDK platform  by Xamarin. Follow the step in [Microsoft's website](https://learn.microsoft.com/en-us/xamarin/android/get-started/installation/android-sdk?tabs=windows).
 
   
 ## _Installation_
