@@ -41,15 +41,11 @@ Follow the step for **Visual Studio 2022** from [Microsoft's website](https://vi
 
 1. Clone this repository to your local machine using this
    command: <br/> `git clone https://github.com/LyonKhang/onward.git`
-2. Import the project into your IDE (such as Eclipse or Visual Studio code).
-3. start the application from OnwardApplication.java
-4. Run the application as a Spring Boot application (usually located in your IDE), or use the Maven plugin `mvn spring-boot:run`.
-5. Go to localhost:8080/ on your web browser.
-
-*Try adding endpoints with simple text and stuff, 
-follow the template for greeting and add endpoint methods to DemoController,
-just make sure you do it in the form @GetMapping("/YOURTEXTHERE")
-The first slash is important
+Or Import the project from your IDE (Visual Studio 2022).
+2. On File > Open > Project/Solution
+3. Choose ONWaRD05.csproj
+4. Click run as perfer operating system.
+*If it appears an app running. You have successfully compiled the project
 
 ## _Architecture_
 
@@ -78,9 +74,8 @@ When making contributions, please keep the following in mind:
 *Write tests for any new code and ensure that all existing tests pass.
 
 ## _License_
-
 Users outside have the right to use, copy, modify, and distribute the code included in this project (4/2/2024).
 
 ## _Acknowledgements_
-
+This is a modified version based on  [ONWaRD](https://github.com/jack-turk-5/onward). Vinh is the original modified of this version.
 This README structure was based on that within Nidhal Naffati's Rental-Car-Agency repository, which happened to use a very similar technology set as our project. The repository for this can be found here: [Car Rental Agency](https://github.com/NidhalNaffati/Rental-Car-Agency).
