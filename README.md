@@ -22,19 +22,27 @@ The following technologies were used to build this application: <br/>
 
 ## _WorkLoad_
 
-The following Workload  were used in Visual Studio 2022 installer <br/>
+The following Workload  was used in Visual Studio 2022 installer <br/>
 +  Android SDK platform
 + .NET Multi-platform App UI development<br/>
 
 
 ## _Requirements_
-**You need Visual Studio 2022 before doing other step**
+**You need Visual Studio 2022 before doing other steps and updates to the current version**
 Follow the step for **Visual Studio 2022** from [Microsoft's website](https://visualstudio.microsoft.com/downloads/)
 
 1.Having Microsoft .NET Maui Framework for the Front end. <br/>
   Follow the step for **Microsoft .NET Maui** from [Microsoft's website](https://learn.microsoft.com/en-us/dotnet/maui/get-started/installation?view=net-maui-8.0&tabs=vswin)
 
 2.Having Android SDK platform  by Xamarin. Follow the step in [Microsoft's website](https://learn.microsoft.com/en-us/xamarin/android/get-started/installation/android-sdk?tabs=windows).
+
+## _NuGet(Optional)_
+**Addtional Nuget packages can be found on Project task Bar label as "Manage NuGet Packages". You can dowload it right on Visual Studio or visit the follwing website for guide.** 
+
+1. Having Microsoft.Maui.Controls(8.0.20) a cross-platform framework for C# ,XAML, and runs such as Android, iOS, macOS, Tizen, and Windows from a single shared codebase.[nuget.org's website](https://www.nuget.org/packages/Microsoft.Maui.Controls/8.0.20?_src=template) <br>
+
+2.Having Microsoft.Maui.Controls.Compatibility(8.0.20) a APIs and views that allow for easier migration from Xamarin.Forms.[nuget.org's website](https://www.nuget.org/packages/Microsoft.Maui.Controls.Compatibility/8.0.20?_src=template) <br> 
+
 
   
 ## _Installation_
