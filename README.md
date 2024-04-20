@@ -6,6 +6,7 @@ This application demonstrates how to utilize Microsoft .NET Maui Framework, Spri
   * [_Technologies Used_](#technologies-used)
   * [_WorkLoad_](#workload)
   * [_Requirements_](#requirements)
+  * [_Nuget_](#nuget)
   * [_Installation_](#installation)
   * [_Contributing_](#contributing)
   * [_License_](#license)
@@ -36,7 +37,7 @@ Follow the step for **Visual Studio 2022** from [Microsoft's website](https://vi
 
 2.Having Android SDK platform  by Xamarin. Follow the step in [Microsoft's website](https://learn.microsoft.com/en-us/xamarin/android/get-started/installation/android-sdk?tabs=windows).
 
-## _NuGet(Optional)_
+## _NuGet_
 **Addtional Nuget packages can be found on Project task Bar label as "Manage NuGet Packages". You can dowload it right on Visual Studio or visit the follwing website for guide.** 
 
 1. Having Microsoft.Maui.Controls(8.0.20) a cross-platform framework for C# ,XAML, and runs such as Android, iOS, macOS, Tizen, and Windows from a single shared codebase.[nuget.org's website](https://www.nuget.org/packages/Microsoft.Maui.Controls/8.0.20?_src=template) <br>
