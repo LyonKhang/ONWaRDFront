@@ -42,7 +42,7 @@ Follow the step for **Visual Studio 2022** from [Microsoft's website](https://vi
 
 1. Having Microsoft.Maui.Controls(8.0.20) a cross-platform framework for C# ,XAML, and runs such as Android, iOS, macOS, Tizen, and Windows from a single shared codebase.[nuget.org's website](https://www.nuget.org/packages/Microsoft.Maui.Controls/8.0.20?_src=template) <br>
 
-2.Having Microsoft.Maui.Controls.Compatibility(8.0.20) a APIs and views that allow for easier migration from Xamarin.Forms.[nuget.org's website](https://www.nuget.org/packages/Microsoft.Maui.Controls.Compatibility/8.0.20?_src=template) <br> 
+2. Having Microsoft.Maui.Controls.Compatibility(8.0.20) a APIs and views that allow for easier migration from Xamarin.Forms.[nuget.org's website](https://www.nuget.org/packages/Microsoft.Maui.Controls.Compatibility/8.0.20?_src=template) <br> 
 
 
   
